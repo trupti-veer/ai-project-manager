@@ -1,6 +1,6 @@
 # Agent: Data Collection Specialist
 ## Final Answer: 
-```
+
 Project Name: Saakaar Ecodiversity Project
 
 Main Features:
@@ -29,12 +29,6 @@ Team Information:
 Additional Notes:
 - Due Dates: Many tasks due by May 31, 2023.
 - Last Activity: Most recent activities noted on April 8, 2023.
-```
-
-
-# Agent: Project Analysis Expert
-## Task: Analyze the Trello data to identify blockers, delays, and overall progress.
-
 
 
 # Agent: Project Analysis Expert
@@ -70,10 +64,6 @@ By addressing these identified blockers and delays urgently, the Saakaar Ecodive
 
 The report should include: - Sprint Overview - Task Summary - Identified Issues and Blockers - Progress and Delays - Team Performance Overview - Action Items and Recommendations - Anything else that is relevant to the project. The report must be formatted in markdown.
 
-
-
-# Agent: Project Analysis Expert
-## Final Answer: 
 # Sprint Report for Saakaar Ecodiversity Project
 
 ## Sprint Overview
