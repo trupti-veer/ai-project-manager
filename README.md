@@ -1,4 +1,4 @@
-Created an multi agent AI project report generator using crewAI.
+Created an multi agent AI project report generator using crewAI and external tool integration (Trello board).
 
 Tech Stack used:
 1. CrewAI
