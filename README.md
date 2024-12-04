@@ -5,6 +5,9 @@ Tech Stack used:
 2. Open AI Model : gpt-4o-mini
 3. Trello API integration (Using Custom Tools)
 
+The trello board used for this project is in data folder and the generated reports are in output folder.
+
+
 Below is the architecture:
 
 
